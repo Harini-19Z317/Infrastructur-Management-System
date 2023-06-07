@@ -1,4 +1,4 @@
-# Infrastructur-Management-System
+# Infrastructure-Management-System
 The Infrastructure Management System (IMS) is a comprehensive software solution designed to streamline and automate various aspects of infrastructure management of Tiruppur district judiciary. The system aims to enhance efficiency, organization, and control in managing properties, stocks, maintenance contracts, complaints, and reports. It provides a centralized platform for seamless tracking and monitoring of different properties and associated resources.
 
 The IMS incorporates a range of key features and functionalities to address the specific needs of infrastructure management:
